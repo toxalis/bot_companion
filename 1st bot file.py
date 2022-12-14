@@ -2,8 +2,8 @@
 # бот для тестирования общения с человеком с применением нескольких функций
 
 import os
-import dotenv
 
+import dotenv
 import telebot
 from telebot import types  # types - для создания кнопок
 import requests
